@@ -1,0 +1,13 @@
+{
+  "name": "student-success-hub-lesson",
+  "version": "1.0.0",
+  "description": "A full-stack MERN integration lesson built from completed JWT auth templates",
+  "scripts": {
+    "mdv": "node md-validate.js"
+  },
+  "type": "module",
+  "author": "General Assembly",
+  "devDependencies": {
+    "ga-mdlint": "^1.0.1"
+  }
+}
